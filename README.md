@@ -1,4 +1,4 @@
-# Day 2
-- Learned Java variables and data types
-- Practiced int, double, String, boolean
-- Printed variables to console
+# Day 3
+- Learned if / else statements
+- Practiced decision making in Java
+- Built age checker and grade checker
