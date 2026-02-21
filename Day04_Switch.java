@@ -2,10 +2,11 @@ public class Day04_Switch {
     public static void main(String[] args) {
         int day = 4;
 
-        switch (day) {
-            case 1:
-                System.out.println("Monday");
-                break;
+       // switch checks the value of 'day'
+switch (day) {
+    case 1: // if day is 1
+        System.out.println("Monday");
+        break; // stops further checking
             case 2:
                 System.out.println("Tuesday");
                 break;
