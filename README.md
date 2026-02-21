@@ -1,4 +1,4 @@
-# Day 3
-- Learned if / else statements
-- Practiced decision making in Java
-- Built age checker and grade checker
+# Day 4
+- Learned switch statements
+- Built day checker program
+- Built menu selection program
