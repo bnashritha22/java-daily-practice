@@ -4,7 +4,7 @@ public class Day06_EvenNumbers {
 
         while (num <= 10) {
             System.out.println(num);
-            num += 2;
+            num +=2;
         }
     }
 }
