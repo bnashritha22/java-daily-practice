@@ -88,3 +88,8 @@ Practice:
 
 ## Goal 🚀
 Build strong Java fundamentals with daily practice and consistent contributions.
+
+## Day 6
+- Learned while loops
+- Built counting and reverse programs
+- Printed even numbers using loop
