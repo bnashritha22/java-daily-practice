@@ -24,12 +24,14 @@ public class Day07_Calculator {
         } else if (operator == '*') {
             result = num1 * num2;
             System.out.println("Result: " + result);
-        } else if (operator == '/') {
-            result = num1 / num2;
-            System.out.println("Result: " + result);
-        } else {
-            System.out.println("Invalid operator");
-        }
+        }else if (operator == '/') {
+    if (num2 != 0) {
+        result = num1 / num2;
+        System.out.println("Result: " + result);
+    } else {
+        System.out.println("Cannot divide by zero");
+    }
+}
 
         input.close();
     }
