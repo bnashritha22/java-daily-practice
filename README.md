@@ -93,3 +93,9 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned while loops
 - Built counting and reverse programs
 - Printed even numbers using loop
+
+## Day 7
+- Built simple calculator
+- Took user input using Scanner
+- Performed arithmetic operations
+- Handled divide-by-zero case
