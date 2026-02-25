@@ -99,3 +99,9 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Took user input using Scanner
 - Performed arithmetic operations
 - Handled divide-by-zero case
+
+- ## Day 8
+- Learned Java methods
+- Created methods with parameters
+- Returned values from methods
+- Built square calculator
