@@ -3,6 +3,14 @@ public class Day09_Arrays {
 
         int[] numbers = {10, 20, 30, 40, 50};
 
+        int sum = 0;
+
+for (int i = 0; i < numbers.length; i++) {
+    sum += numbers[i];
+}
+
+System.out.println("Sum: " + sum);
+
         System.out.println("First element: " + numbers[0]);
         System.out.println("Second element: " + numbers[1]);
         System.out.println("All elements:");
