@@ -105,3 +105,9 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Created methods with parameters
 - Returned values from methods
 - Built square calculator
+
+- ## Day 9
+- Learned arrays
+- Stored multiple values in one variable
+- Printed array using loop
+- Calculated sum of elements
