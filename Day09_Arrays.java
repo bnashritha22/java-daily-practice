@@ -5,5 +5,10 @@ public class Day09_Arrays {
 
         System.out.println("First element: " + numbers[0]);
         System.out.println("Second element: " + numbers[1]);
+        System.out.println("All elements:");
+
+for (int i = 0; i < numbers.length; i++) {
+    System.out.println(numbers[i]);
+}
     }
 }
