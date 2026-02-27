@@ -13,5 +13,14 @@ public class Day10_ArrayAverage {
 
         System.out.println("Sum: " + sum);
         System.out.println("Average: " + average);
+        int max = numbers[0];
+
+for (int i = 1; i < numbers.length; i++) {
+    if (numbers[i] > max) {
+        max = numbers[i];
+    }
+}
+
+System.out.println("Highest number: " + max);
     }
 }
