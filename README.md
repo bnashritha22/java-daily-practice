@@ -111,3 +111,9 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Stored multiple values in one variable
 - Printed array using loop
 - Calculated sum of elements
+
+- ## Day 10
+- Calculated average of array
+- Took user input into array
+- Found highest value
+- Practiced loops with arrays
