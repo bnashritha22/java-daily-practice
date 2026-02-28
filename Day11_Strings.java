@@ -18,6 +18,12 @@ if (word1.equals(word2)) {
 
 if (word1.equalsIgnoreCase(word2)) {
     System.out.println("Same ignoring case");
+
+    String firstName = "Ashritha";
+String lastName = "Learner";
+
+String fullName = firstName + " " + lastName;
+System.out.println("Full name: " + fullName);
 }
     }
 }
