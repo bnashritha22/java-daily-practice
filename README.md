@@ -117,3 +117,9 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Took user input into array
 - Found highest value
 - Practiced loops with arrays
+
+- ## Day 11
+- Learned string operations
+- Checked string length
+- Compared strings
+- Combined text values
