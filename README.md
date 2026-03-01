@@ -123,3 +123,9 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Checked string length
 - Compared strings
 - Combined text values
+
+- ## Day 12
+- Learned classes and objects
+- Created student class
+- Created multiple objects
+- Practiced real-world modeling
