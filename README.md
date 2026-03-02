@@ -129,3 +129,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Created student class
 - Created multiple objects
 - Practiced real-world modeling
+
+- ## Day 13
+- Learned constructors
+- Initialized objects automatically
+- Created student and book classes
