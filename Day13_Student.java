@@ -17,5 +17,7 @@ public class Day13_Student {
     public static void main(String[] args) {
         Day13_Student s1 = new Day13_Student("Ashritha", 20);
         s1.display();
+        Day13_Student s2 = new Day13_Student("Ravi", 22);
+s2.display();
     }
 }
