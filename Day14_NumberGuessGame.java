@@ -15,15 +15,18 @@ public class Day14_NumberGuessGame {
         int attempts = 0;
 
         while (guess != number) {
-            System.out.print("Enter your guess: ");
-            guess = scanner.nextInt();
-            attempts++;
+            System.out.println("Choose difficulty: 1.Easy (1-50) 2.Medium (1-100) 3.Hard (1-200)");
+int level = scanner.nextInt();
 
-            if (guess < number) {
-                System.out.println("Too low!");
-            } else if (guess > number) {
-                System.out.println("Too high!");
-            } else {
+int number;
+
+if (level == 1) {
+    number = random.nextInt(50) + 1;
+} else if (level == 2) {
+    number = random.nextInt(100) + 1;
+} else {
+    number = random.nextInt(200) + 1;
+}
               System.out.println("Correct! You guessed it in " + attempts + " attempts.");
             }
         }
