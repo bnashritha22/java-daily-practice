@@ -12,17 +12,19 @@ public class Day14_NumberGuessGame {
         int guess = 0;
 
         System.out.println("Guess a number between 1 and 100");
+        int attempts = 0;
 
         while (guess != number) {
             System.out.print("Enter your guess: ");
             guess = scanner.nextInt();
+            attempts++;
 
             if (guess < number) {
                 System.out.println("Too low!");
             } else if (guess > number) {
                 System.out.println("Too high!");
             } else {
-                System.out.println("Correct! You guessed it!");
+              System.out.println("Correct! You guessed it in " + attempts + " attempts.");
             }
         }
 
