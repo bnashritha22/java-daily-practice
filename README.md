@@ -134,3 +134,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned constructors
 - Initialized objects automatically
 - Created student and book classes
+
+- ## Day 14
+- Built Number Guessing Game
+- Used loops, conditions, Random
+- Added difficulty levels and attempt counter
