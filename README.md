@@ -139,3 +139,9 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Built Number Guessing Game
 - Used loops, conditions, Random
 - Added difficulty levels and attempt counter
+
+- ## Day 15
+- Learned Method Overloading (same method name, different parameters)
+- Practiced overloading by changing parameter count and data types
+- Built Calculator and Area examples
+- Understood compile-time polymorphism
