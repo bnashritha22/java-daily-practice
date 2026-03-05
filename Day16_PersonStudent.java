@@ -16,6 +16,7 @@ class Student extends Person {
     }
 }
 
+
 public class Day16_PersonStudent {
 
     public static void main(String[] args) {
