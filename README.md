@@ -145,3 +145,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Practiced overloading by changing parameter count and data types
 - Built Calculator and Area examples
 - Understood compile-time polymorphism
+
+- ## Day 16
+- Learned Inheritance in Java
+- Used "extends" keyword
+- Built Animal–Dog and Person–Student examples
