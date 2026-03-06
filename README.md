@@ -150,3 +150,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned Inheritance in Java
 - Used "extends" keyword
 - Built Animal–Dog and Person–Student examples
+
+- ## Day 17
+- Learned Method Overriding
+- Child class modifies parent method
+- Practiced Animal–Dog and Bank examples
