@@ -155,3 +155,7 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned Method Overriding
 - Child class modifies parent method
 - Practiced Animal–Dog and Bank examples
+
+- ## Day 18
+- Learned super keyword
+- Used super to access parent method, variable, and constructor
