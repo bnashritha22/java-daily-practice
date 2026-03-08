@@ -159,3 +159,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - ## Day 18
 - Learned super keyword
 - Used super to access parent method, variable, and constructor
+
+- ## Day 19
+- Learned Abstract Classes
+- Created abstract methods
+- Implemented Animal and Shape examples
