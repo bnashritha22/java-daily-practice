@@ -164,3 +164,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned Abstract Classes
 - Created abstract methods
 - Implemented Animal and Shape examples
+
+- ## Day 20
+- Learned Interfaces
+- Used implements keyword
+- Built Animal and Payment interface examples
