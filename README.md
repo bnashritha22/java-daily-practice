@@ -169,3 +169,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned Interfaces
 - Used implements keyword
 - Built Animal and Payment interface examples
+
+- ## Day 21
+- Learned ArrayList from Java Collections
+- Practiced add, get, remove operations
+- Iterated through ArrayList using loop
