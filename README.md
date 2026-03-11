@@ -174,3 +174,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned ArrayList from Java Collections
 - Practiced add, get, remove operations
 - Iterated through ArrayList using loop
+
+- ## Day 22
+- Learned HashMap from Java Collections
+- Stored data using key-value pairs
+- Practiced put, get, remove and iteration
