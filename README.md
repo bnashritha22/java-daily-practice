@@ -179,3 +179,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned HashMap from Java Collections
 - Stored data using key-value pairs
 - Practiced put, get, remove and iteration
+
+- ## Day 23
+- Learned HashSet from Java Collections
+- Stored unique values
+- Demonstrated duplicate removal and iteration
