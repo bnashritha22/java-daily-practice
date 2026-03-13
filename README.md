@@ -184,3 +184,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Learned HashSet from Java Collections
 - Stored unique values
 - Demonstrated duplicate removal and iteration
+
+## Day 24
+- Built Student Record Manager
+- Stored objects in ArrayList
+- Displayed student data and count
