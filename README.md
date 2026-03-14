@@ -189,3 +189,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Built Student Record Manager
 - Stored objects in ArrayList
 - Displayed student data and count
+
+- ## Day 25
+- Built simple Expense Tracker
+- Stored expenses in ArrayList
+- Calculated total spending
