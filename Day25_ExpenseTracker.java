@@ -12,6 +12,14 @@ public class Day25_ExpenseTracker {
 
         for(Expense e : expenses) {
             e.display();
+
+            double total = 0;
+
+for(Expense e : expenses) {
+    total += e.amount;
+}
+
+System.out.println("Total Expense: ₹" + total);
         }
     }
 }
