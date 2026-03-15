@@ -9,9 +9,11 @@ public class Day26_TodoList {
         tasks.add("Finish Java practice");
         tasks.add("Study for exams");
         tasks.add("Workout");
-for(String task : tasks) {
-    System.out.println(task);
-}
+    for(String task : tasks) {
+        System.out.println(task);
+    }
         System.out.println(tasks);
+
+        System.out.println("Total Tasks: " + tasks.size());
     }
 }
