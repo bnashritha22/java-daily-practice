@@ -194,3 +194,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Built simple Expense Tracker
 - Stored expenses in ArrayList
 - Calculated total spending
+
+## Day 26
+- Built simple To-Do List Manager
+- Stored tasks using ArrayList
+- Displayed tasks and total count
