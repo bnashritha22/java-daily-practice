@@ -12,8 +12,15 @@ public class Day27_StudentSearch {
 
         String searchName = "Riya";
 
+       boolean found = false;
         for(Student s : students) {
-            if(s.name.equals(searchName)) {
+           if(s.name.equals(searchName)) {
+    System.out.println("Marks: " + s.marks);
+    found = true;
+               if(!found) {
+    System.out.println("Student not found");
+}
+}
                 System.out.println("Marks: " + s.marks);
             }
         }
