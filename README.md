@@ -199,3 +199,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Built simple To-Do List Manager
 - Stored tasks using ArrayList
 - Displayed tasks and total count
+
+- ## Day 27
+- Built student search program
+- Searched student in ArrayList
+- Handled student not found case
