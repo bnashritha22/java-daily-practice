@@ -204,3 +204,7 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Built student search program
 - Searched student in ArrayList
 - Handled student not found case
+
+- ## Day 28
+- Sorted students using Comparator
+- Implemented ascending and descending order
