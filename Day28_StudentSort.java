@@ -18,7 +18,7 @@ public class Day28_StudentSort {
             }
         });
 
-        for(Student s : students) {
+         for(Student s : students) {
             System.out.println(s.name + " : " + s.marks);
         }
     }
