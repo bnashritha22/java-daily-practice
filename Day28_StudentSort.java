@@ -14,7 +14,7 @@ public class Day28_StudentSort {
 
         Collections.sort(students, new Comparator<Student>() {
             public int compare(Student s1, Student s2) {
-                return s2.marks - s1.marks; // descending order
+                return s1.marks - s2.marks; // descending order
             }
         });
 
