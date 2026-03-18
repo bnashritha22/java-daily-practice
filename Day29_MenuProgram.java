@@ -25,6 +25,8 @@ public class Day29_MenuProgram {
             System.out.println("2. View Students");
             System.out.println("3. Exit");
             System.out.print("Enter choice: ");
+            default:
+    System.out.println("Invalid choice");
 
             switch(choice) {
     case 1:
@@ -48,5 +50,6 @@ public class Day29_MenuProgram {
         } while(choice != 3);
 
         sc.close();
+        
     }
 }
