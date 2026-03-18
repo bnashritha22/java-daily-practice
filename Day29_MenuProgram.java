@@ -26,6 +26,18 @@ public class Day29_MenuProgram {
             System.out.println("3. Exit");
             System.out.print("Enter choice: ");
 
+            switch(choice) {
+    case 1:
+        System.out.print("Enter name: ");
+        String name = sc.next();
+
+        System.out.print("Enter marks: ");
+        int marks = sc.nextInt();
+
+        students.add(new Student(name, marks));
+        break;
+}
+
             choice = sc.nextInt();
 
         } while(choice != 3);
