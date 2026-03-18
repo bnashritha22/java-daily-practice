@@ -208,3 +208,8 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - ## Day 28
 - Sorted students using Comparator
 - Implemented ascending and descending order
+
+- ## Day 29
+- Built menu-driven program
+- Added user input using Scanner
+- Implemented add and view student features
