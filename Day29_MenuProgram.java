@@ -36,6 +36,11 @@ public class Day29_MenuProgram {
 
         students.add(new Student(name, marks));
         break;
+    case 2:
+    for(Student s : students) {
+        System.out.println(s.name + " : " + s.marks);
+    }
+    break;
 }
 
             choice = sc.nextInt();
