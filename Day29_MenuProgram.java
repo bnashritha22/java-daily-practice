@@ -26,7 +26,7 @@ public class Day29_MenuProgram {
             System.out.println("3. Exit");
             System.out.print("Enter choice: ");
             default:
-    System.out.println("Invalid choice");
+            System.out.println("Invalid choice");
 
             switch(choice) {
     case 1:
