@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class Student {
+    String name;
+    int marks;
+
+    Student(String name, int marks) {
+        this.name = name;
+        this.marks = marks;
+    }
+}
+
+public class Day29_MenuProgram {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        ArrayList<Student> students = new ArrayList<>();
+
+        int choice;
+
+        do {
+            System.out.println("\n1. Add Student");
+            System.out.println("2. View Students");
+            System.out.println("3. Exit");
+            System.out.print("Enter choice: ");
+
+            choice = sc.nextInt();
+
+        } while(choice != 3);
+
+        sc.close();
+    }
+}
