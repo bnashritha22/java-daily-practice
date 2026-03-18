@@ -11,7 +11,7 @@ class Student {
     }
 }
 
-public class Day29_MenuProgram {
+ public class Day29_MenuProgram {
 
     public static void main(String[] args) {
 
