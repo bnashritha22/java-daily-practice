@@ -39,10 +39,10 @@ class Student {
         students.add(new Student(name, marks));
         break;
     case 2:
-    for(Student s : students) {
+        for(Student s : students) {
         System.out.println(s.name + " : " + s.marks);
     }
-    break;
+        break;
 }
 
             choice = sc.nextInt();
