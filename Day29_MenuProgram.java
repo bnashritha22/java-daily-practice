@@ -49,7 +49,7 @@ class Student {
 
         } while(choice != 3);
 
-        sc.close();
+   sc.close();
         
     }
 }
