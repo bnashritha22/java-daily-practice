@@ -213,4 +213,9 @@ Build strong Java fundamentals with daily practice and consistent contributions.
 - Built menu-driven program
 - Added user input using Scanner
 - Implemented add and view student features
+
+- ## Day 30
+- Built Student Management System
+- Added add, view, search features
+- Used ArrayList and menu-driven logic
   
