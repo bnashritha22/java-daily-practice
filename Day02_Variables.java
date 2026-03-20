@@ -17,5 +17,5 @@ public class Day02_Variables {
         System.out.println("Age: " + age);
         System.out.println("Height: " + height);
         System.out.println("Student? " + isStudent); 
-    }
+    } 
 }
