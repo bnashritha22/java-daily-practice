@@ -4,7 +4,7 @@ public class Day08_SquareCalculator {
         return num * num;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         int result = square(4);
         System.out.println("Square: " + result);
     }
