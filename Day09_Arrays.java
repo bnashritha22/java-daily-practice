@@ -5,7 +5,7 @@ public class Day09_Arrays {
 
         int sum = 0;
 
-for (int i = 0; i < numbers.length; i++) {
+for (int i = 0; i < numbers.length; i++)  {
     sum += numbers[i];
 }
 
