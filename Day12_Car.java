@@ -8,7 +8,7 @@ public class Day12_Car {
         System.out.println("Year: " + year);
     }
 
-    public static void main(String[] args) {
+    public static void main (String[] args) {
         Day12_Car car1 = new Day12_Car();
 
         car1.brand = "Toyota";
