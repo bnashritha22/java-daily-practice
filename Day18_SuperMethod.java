@@ -9,7 +9,7 @@ class Dog extends Animal {
 
     void sound() {
         super.sound(); // calling parent method
-        System.out.println("Dog barks");
+        System.out.println( "Dog barks");
     }
 }
 
