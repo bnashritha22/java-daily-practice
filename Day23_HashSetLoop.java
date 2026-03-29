@@ -2,7 +2,7 @@ import java.util.HashSet;
 
 public class Day23_HashSetLoop {
 
-    public static void main(String[] args) {
+    public static void main (String[] args) {
 
         HashSet<String> cities = new HashSet<>();
 
