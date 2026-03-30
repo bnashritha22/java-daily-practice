@@ -4,7 +4,7 @@ public class Day24_StudentManager {
 
     public static void main(String[] args) {
 
-        ArrayList<Student> students = new ArrayList<>();
+        ArrayList<Student> students = newArrayList<>();
 
         students.add(new Student("Anshu", 95));
         students.add(new Student("Riya", 90));
