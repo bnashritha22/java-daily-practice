@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Day24_StudentManager {
 
-    public static void main(String[] args) {
+    public static void main( String[] args) {
 
         ArrayList<Student> students = newArrayList<>();
 
